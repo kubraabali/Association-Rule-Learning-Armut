@@ -8,7 +8,7 @@ Türkiye’nin en büyük online hizmet platformu olan Armut, hizmet verenler il
 
 ## Veri Seti
 Veri seti müşterilerin aldıkları servislerden ve bu servislerin kategorilerinden oluşmaktadır.
-# Alınan her hizmetin tarih ve saat bilgisini içermektedir.
+Alınan her hizmetin tarih ve saat bilgisini içermektedir.
 
 - UserId: Müşteri numarası
 - ServiceId: Her kategoriye ait anonimleştirilmiş servislerdir. (Örnek : Temizlik kategorisi altında koltuk yıkama servisi)
